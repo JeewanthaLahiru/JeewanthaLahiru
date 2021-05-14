@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jeewantha Lahiru
+<h1 style="text-align:center;" > Hi there 👋, I'm Jeewantha Lahiru</h1>
 
 - 🔭 I’m currently working as Undergraduate Sofware Engineer
 - 🤔 I’m looking for help with software solutions
