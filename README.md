@@ -1,6 +1,6 @@
 <h1 style="text-align:center;" > Hi there 👋, I'm Jeewantha Lahiru</h1>
 
-- 🔭 I’m currently working as Undergraduate Sofware Engineer
+- 🔭 I’m currently studying in <b>University of Kelaniya</b>
 - 🤔 I’m looking for help with software solutions
 - 💬 Ask me about what you need
 
